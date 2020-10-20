@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋 Hello world! I'm Gabriele
 
 <!--
 **derogab/derogab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I have a Bachelor Degree in Computer Science at **[UniMiB](https://unimib.it)**
+- 📚 I'm currently studying for a Master Degree in Computer Science at **[UniMiB](https://unimib.it)**
+- 🏢 Sometimes I work as a **Web Developer** / **Head of IT** at **[Madesk](https://madesk.it)**
+- 👉 My plan is to improve my coding skills more and more...
+- ❤️ I love to code in **Python**, **NodeJS**
+- 📫 How to reach me: `derosagabriele at outlook dot com`
+
+## Some stats
+![derogab's github stats](https://github-readme-stats.vercel.app/api?username=derogab&include_all_commits=true&show_icons=true)
+
+## Keep in touch
+[Website](https://www.derogab.com) · [Twitter](https://twitter.com/derogab) · [LinkedIn](https://www.linkedin.com/in/derogab)
