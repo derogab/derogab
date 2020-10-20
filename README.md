@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🏢 Sometimes I work as a **Web Developer** / **Head of IT** at **[Madesk](https://madesk.it)**
 - 👉 My plan is to improve my coding skills more and more...
 - ❤️ I love to code in **Python**, **NodeJS**
-- 📫 How to reach me: `derosagabriele at outlook dot com`
+- 📫 How to reach me: `derosagabriele at outlook dot it`
 
 ## Some stats
 ![derogab's github stats](https://github-readme-stats.vercel.app/api?username=derogab&include_all_commits=true&show_icons=true)
