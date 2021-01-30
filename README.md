@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: `derosagabriele at outlook dot it`
 
 ## Some stats
-![derogab's github stats](https://github-readme-stats.vercel.app/api?username=derogab&include_all_commits=true&show_icons=true)
+![Metrics](https://github.com/derogab/derogab/blob/master/github-metrics.svg)
 
 ## Keep in touch
 [Website](https://www.derogab.com) · [Twitter](https://twitter.com/derogab) · [LinkedIn](https://www.linkedin.com/in/derogab)
