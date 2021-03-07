@@ -20,7 +20,6 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           # ... other options
-          config_output: png
           user: derogab
           template: classic
           base: header, activity, community, repositories, metadata
@@ -30,7 +29,6 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_languages: no
           plugin_stars: no
-          plugin_music: no
           plugin_gist: no
           plugin_people: no
           plugin_topics: no
