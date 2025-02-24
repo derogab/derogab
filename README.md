@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 - 🎓 I have a Bachelor Degree in Computer Science at **[UniMiB](https://www.unimib.it)**
 - 📚 I'm currently studying for a Master Degree in Computer Science at **[UniMiB](https://www.unimib.it)**
-- 🏢 Sometimes I work as a **Web Developer** / **Head of IT** at **[Madesk](https://madesk.it)**
+- 🐬 I mainly work as a back-end developer at **[Waveful](https://www.waveful.com)**
+- 🏢 I occasionally serve as a consultant at **[Madesk](https://www.madesk.it)**
 - 👉 My plan is to improve my coding skills more and more...
 - ❤️ I love to code in **Python**, **NodeJS**
-- 📫 How to reach me: `derosagabriele at outlook dot it`
+- 📫 How to reach me: `github at derogab dot com`
 
 ## Some stats
 ![Metrics](https://github.com/derogab/derogab/blob/master/github-metrics.svg)
