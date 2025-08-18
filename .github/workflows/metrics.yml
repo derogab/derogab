@@ -29,6 +29,5 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_languages: no
           plugin_stars: no
-          plugin_gist: no
           plugin_people: no
           plugin_topics: no
